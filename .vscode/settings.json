@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "osmem.h": "c",
+        "stdlib.h": "c",
+        "test-utils.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "mman.h": "c",
+        "block_meta.h": "c"
+    }
+}

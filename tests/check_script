@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Change to the src directory
+cd ../src/
+
+# Clean the project
+make clean
+
+# Build the project
+make
+
+# Change to the tests directory
+cd ../tests/
+
+# Run tests using 'make check'
+make check
